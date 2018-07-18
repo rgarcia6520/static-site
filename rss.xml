@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://192.168.1.68/rss.xml">
+  <channel>
+    <title>RGARCIA.NET</title>
+    <link>http://192.168.1.68/rss.xml</link>
+    <description/>
+    <language>en</language>
+    
+    <item>
+  <title>New Computer Build</title>
+  <link>http://192.168.1.68/node/6</link>
+  <description>&lt;span property="schema:name"&gt;New Computer Build&lt;/span&gt;
+&lt;span rel="schema:author"&gt;&lt;span lang="" about="http://192.168.1.68/user/2" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;rgarcia&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2018-06-21T02:03:43+00:00"&gt;Wed, 06/20/2018 - 21:03&lt;/span&gt;
+</description>
+  <pubDate>Thu, 21 Jun 2018 02:03:43 +0000</pubDate>
+    <dc:creator>rgarcia</dc:creator>
+    <guid isPermaLink="false">6 at http://192.168.1.68</guid>
+    <comments>http://192.168.1.68/node/6#comments</comments>
+    </item>
+<item>
+  <title>Welcome</title>
+  <link>http://192.168.1.68/node/1</link>
+  <description>&lt;span property="schema:name"&gt;Welcome&lt;/span&gt;
+&lt;span rel="schema:author"&gt;&lt;span lang="" about="http://192.168.1.68/user/2" typeof="schema:Person" property="schema:name" datatype="" xml:lang=""&gt;rgarcia&lt;/span&gt;&lt;/span&gt;
+&lt;span property="schema:dateCreated" content="2018-05-10T17:29:13+00:00"&gt;Thu, 05/10/2018 - 12:29&lt;/span&gt;
+
+            &lt;div property="schema:text" class="field field--name-body field--type-text-with-summary field--label-hidden field__item"&gt;&lt;p&gt;Thanks for visiting rgarcia.net, this site will be periodically updated with cool pictures, posts and comments about cool hardware, software, soccer events and the like.&lt;/p&gt;&lt;/div&gt;
+      </description>
+  <pubDate>Thu, 10 May 2018 17:29:13 +0000</pubDate>
+    <dc:creator>rgarcia</dc:creator>
+    <guid isPermaLink="false">1 at http://192.168.1.68</guid>
+    </item>
+
+  </channel>
+</rss>
